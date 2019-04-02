@@ -17,6 +17,7 @@ This repository contains my paper reading notes on deep learning and machine lea
 ## 2019-04
 - [TensorMask: A Foundation for Dense Object Segmentation](https://arxiv.org/pdf/1903.12174
 ) [[Notes](TensorMask.pdf)]
+- [InstanceFCN review](https://arxiv.org/pdf/1603.08678)[[Note](https://towardsdatascience.com/review-instancefcn-instance-sensitive-score-maps-instance-segmentation-dbfe67d4ee92)]
 
 ## 2019-03
 - [Bag of Freebies for Training Object Detection Neural Networks](https://arxiv.org/pdf/1902.04103.pdf) [[Notes](paper_notes/bag_of_freebies_object_detection.md)]
