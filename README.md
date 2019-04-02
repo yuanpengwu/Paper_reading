@@ -15,8 +15,8 @@ This repository contains my paper reading notes on deep learning and machine lea
 | <kbd>NIPS</kbd>, <kbd>CVPR</kbd>, <kbd>ICCV</kbd>, <kbd>ECCV</kbd>, etc | Conference papers           |
 
 ## 2019-04
-- [TensorMask: A Foundation for Dense Object Segmentation] (https://arxiv.org/pdf/1903.12174
-) [[Notes]()]
+- [TensorMask: A Foundation for Dense Object Segmentation](https://arxiv.org/pdf/1903.12174
+) [[Notes](TensorMask.pdf)]
 
 ## 2019-03
 - [Bag of Freebies for Training Object Detection Neural Networks](https://arxiv.org/pdf/1902.04103.pdf) [[Notes](paper_notes/bag_of_freebies_object_detection.md)]
