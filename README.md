@@ -14,6 +14,10 @@ This repository contains my paper reading notes on deep learning and machine lea
 | <kbd>GAN</kbd> | Generative Adversarial Network |
 | <kbd>NIPS</kbd>, <kbd>CVPR</kbd>, <kbd>ICCV</kbd>, <kbd>ECCV</kbd>, etc | Conference papers           |
 
+## 2019-05
+- [Notes on Focal Loss and RetinaNet](https://medium.com/@smallfishbigsea/notes-on-focal-loss-and-retinanet-9c614a2367c6
+) [[Notes](https://arxiv.org/pdf/1708.02002.pdf)]
+
 ## 2019-04
 - [TensorMask: A Foundation for Dense Object Segmentation](https://arxiv.org/pdf/1903.12174
 ) [[Notes](TensorMask.pdf)]
