@@ -17,6 +17,7 @@ This repository contains my paper reading notes on deep learning and machine lea
 ## 2019-05
 - [Notes on Focal Loss and RetinaNet](https://medium.com/@smallfishbigsea/notes-on-focal-loss-and-retinanet-9c614a2367c6
 ) [[Notes](https://arxiv.org/pdf/1708.02002.pdf)]
+- [Anchor Free](https://zhuanlan.zhihu.com/p/62103812) [知乎]
 
 ## 2019-04
 - [TensorMask: A Foundation for Dense Object Segmentation](https://arxiv.org/pdf/1903.12174
